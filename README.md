@@ -19,6 +19,11 @@ Ce projet Laravel permet de gérer des informations sur des personnes, avec la p
 
 4. **Stocker la personne** :
    - Après la validation des données du formulaire de création, les informations sont enregistrées en base de données et l'utilisateur est redirigé vers la liste des personnes avec un message de succès.
+  
+## 📥 Télécharger la base de données
+
+Cliquez [ici](https://github.com/Anaismarthe12/projet_laravel/laravel_db.sql) pour télécharger la base et l'importer dans XAMPP.
+
 
 # Schéma de la base de données
 Consultez le schéma ici : [Voir le schéma](https://dbdiagram.io/d/67fec4d39cea640381d99c1e)
