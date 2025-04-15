@@ -22,7 +22,7 @@ Ce projet Laravel permet de gérer des informations sur des personnes, avec la p
   
 ## 📥 Télécharger la base de données
 
-Cliquez [ici](https://github.com/Anaismarthe12/projet_laravel/laravel_db.sql) pour télécharger la base et l'importer dans XAMPP.
+Cliquez [ici](https://github.com/Anaismarthe12/projet_laravel/blob/main/laravel_db.sql) pour télécharger la base et l'importer dans XAMPP.
 
 
 # Schéma de la base de données
